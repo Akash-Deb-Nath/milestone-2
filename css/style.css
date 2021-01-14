@@ -118,6 +118,10 @@ footer h5,p{
     font-size: 20px;
     color: red;
 }
+.footer-style a:hover{
+    background-color: white;
+    color: lightseagreen;
+}
 @media (max-width: 576px){
     .card-img1{
         margin: 20px 60px;

@@ -98,6 +98,9 @@ h5{
     width: 60%;
     padding-bottom: 10px;
 }
+.fourth-sec p{
+    color: #3E3E3E;
+}
 .last-sec-bg{
     background-color: white;
     box-shadow: 1px 1px 10px white;
